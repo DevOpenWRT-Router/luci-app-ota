@@ -1,6 +1,6 @@
 #!/bin/sh
 # author jjm2473
-URL_BASE=https://fw.koolcenter.com/iStoreOS/ars2
+URL_BASE=https://github.com/DevOpenWRT-Router/Action_OpenWRT_AutoBuild_Linksys_Devices-TEST/releases
 WRLOCK=/var/lock/ota_background.lock
 
 action=${1}
